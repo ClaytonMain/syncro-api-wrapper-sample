@@ -1,0 +1,3 @@
+# Syncro API Wrapper (Sample)
+
+This is a sample of an API wrapper I wrote for my job to make it easier for us to work with the [Syncro API](https://api-docs.syncromsp.com/). This repo is not actively maintained, and omits some initialization code that relied on an internal library that we use (which I also wrote). The `tests` directory has also been omitted, as the test files also relied on that internal library.
